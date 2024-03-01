@@ -21,7 +21,8 @@
 			"modelname"	"models/player/spy.mdl"
 			"modelname_hwm"	"models/player/hwm/spy.mdl"
 			"skin" "1"
-						
+			"vcd"		"scenes/Player/Spy/low/taunt01.vcd"		
+
 			"animation"
 			{
 				"sequence"		"stand_melee"

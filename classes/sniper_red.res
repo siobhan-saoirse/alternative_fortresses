@@ -20,10 +20,16 @@
 		{
 			"modelname"	"models/player/sniper.mdl"
 			"modelname_hwm"	"models/player/hwm/sniper.mdl"
-
+			"vcd"		"scenes/Player/Sniper/low/taunt03.vcd"	
+						
+			"animation"
+			{
+				"sequence"		"stand_melee"
+			}
+			
 			"attached_model"
 			{
-				"modelname" "models/weapons/w_models/w_sniperrifle.mdl"
+				"modelname" "models/weapons/w_models/w_club.mdl"
 			}
 		}
 	}

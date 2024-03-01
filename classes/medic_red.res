@@ -20,11 +20,7 @@
 		{
 			"modelname"	"models/player/medic.mdl"
 			"modelname_hwm"	"models/player/hwm/medic.mdl"
-			
-			"animation"
-			{
-				"sequence"		"stand_secondary"
-			}
+			"vcd"		"scenes/Player/Medic/low/taunt02_v1.vcd"
 			
 			"attached_model"
 			{

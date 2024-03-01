@@ -22,6 +22,7 @@
 			"modelname_hwm"	"models/player/hwm/pyro.mdl"
 			"skin"		"1"
 			"origin_z" "-48"
+			"vcd"		"scenes/Player/Pyro/low/taunt01.vcd"
 			
 			"attached_model"
 			{

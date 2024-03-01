@@ -21,11 +21,7 @@
 			"modelname"	"models/player/engineer.mdl"
 			"modelname_hwm"	"models/player/hwm/engineer.mdl"
 			"origin_z" "-47"
-
-			"animation"
-			{
-				"sequence"		"stand_melee"
-			}
+			"vcd"		"scenes/Player/Engineer/low/taunt01.vcd"	
 
 			"attached_model"
 			{

@@ -23,6 +23,7 @@
 			"skin"		"1"
 			"origin_x" "330"
 			"origin_z" "-46"
+			"vcd"		"scenes/Player/Heavy/low/taunt01.vcd"	
 
 			"attached_model"
 			{

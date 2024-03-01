@@ -22,12 +22,8 @@
 			"modelname_hwm"	"models/player/hwm/engineer.mdl"
 			"skin"		"1"
 			"origin_z" "-47"
+			"vcd"		"scenes/Player/Engineer/low/taunt03.vcd"		
 
-			"animation"
-			{
-				"sequence"		"stand_melee"
-			}
-			
 			"attached_model"
 			{
 				"modelname" "models/weapons/w_models/w_wrench.mdl"

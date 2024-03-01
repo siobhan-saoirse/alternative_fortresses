@@ -18,11 +18,7 @@
 		{
 			"modelname"	"models/player/demo.mdl"
 			"modelname_hwm"	"models/player/hwm/demo.mdl"
-			
-			"animation"
-			{
-				"sequence"		"stand_secondary"
-			}
+			"vcd"		"scenes/Player/Demoman/low/taunt01.vcd"	
 			
 			"attached_model"
 			{

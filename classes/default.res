@@ -6,6 +6,7 @@
 		"fieldName"		"classNameLabel"
 		"xpos"			"355"
 		"ypos"			"160"
+		"ypos_lodef"	"170"
 		"zpos"			"5"	
 		"wide"			"225"
 		"tall"			"30"
@@ -29,9 +30,13 @@
 		"fieldName"		"classInfo"
 		"xpos"			"355"
 		"ypos"			"200"
+		"ypos_lodef"	"200"
 		"zpos"			"5"
 		"wide"			"225"
+		"wide_hidef"	"220"
+		"wide_lodef"	"200"
 		"tall"			"115"
+		"tall_lodef"	"105"
 		"autoResize"	"3"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -70,10 +75,12 @@
 			"origin_x" "320"
 			"origin_y" "10"
 			"origin_z" "-49"	
+			"spotlight" "1"
+			"vcd"		"scenes/Player/Scout/low/taunt02.vcd"
 
 			"animation"
 			{
-				"sequence"		"stand_primary"
+				"sequence"		"SelectionMenu_Idle"
 			}
 			
 			"attached_model"

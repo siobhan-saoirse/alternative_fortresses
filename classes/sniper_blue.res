@@ -21,10 +21,16 @@
 			"modelname"	"models/player/sniper.mdl"
 			"modelname_hwm"	"models/player/hwm/sniper.mdl"
 			"skin"		"1"
+			"vcd"		"scenes/Player/Sniper/low/taunt02.vcd"	
 						
+			"animation"
+			{
+				"sequence"		"stand_secondary"
+			}
+			
 			"attached_model"
 			{
-				"modelname" "models/weapons/w_models/w_sniperrifle.mdl"
+				"modelname" "models/weapons/w_models/w_smg.mdl"
 				"skin"		"1"
 			}
 		}

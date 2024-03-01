@@ -18,7 +18,8 @@
 		{
 			"modelname"	"models/player/soldier.mdl"
 			"modelname_hwm"	"models/player/hwm/soldier.mdl"
-			"origin_z" "-51"	
+			"origin_z" "-51"
+			"vcd"		"scenes/Player/Soldier/low/taunt02.vcd"		
 
 			"animation"
 			{
@@ -28,6 +29,7 @@
 			"attached_model"
 			{
 				"modelname" "models/weapons/w_models/w_rocketlauncher.mdl"
+				"skin"		"1"
 			}
 		}
 	}
