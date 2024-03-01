@@ -14,7 +14,7 @@ WeaponData
 	"Spread"		"0.015"
 	"TimeFireDelay"		"0.25"
 	"TimeIdle"		"5.0"
-	"TimeIdleEmpty"		"0.25"
+	"TimeIdleEmpty"		"0.15"
 	"TimeReload"		"0.5"
 	"ProjectileType"	"projectile_bullet"
 	"BrassModel"		"models/weapons/shells/shell_pistol.mdl"
