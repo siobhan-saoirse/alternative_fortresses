@@ -30,7 +30,7 @@ WeaponData
 	"TracerEffect"		"bullet_scattergun_tracer01"
 
 	// Buckets.
-	"bucket"				"1"
+	"bucket"				"0"
 	"bucket_position"		"1"
 
 	// Animation.
@@ -57,7 +57,7 @@ WeaponData
 	{
 		"weapon"
 		{
-				"file"		"sprites/bucket_scatgun_red"
+				"file"		"sprites/bucket_scatgun"
 				"x"		"0"
 				"y"		"0"
 				"width"		"200"
@@ -65,7 +65,7 @@ WeaponData
 		}
 		"weapon_s"
 		{	
-				"file"		"sprites/bucket_scatgun_blue"
+				"file"		"sprites/bucket_scatgun"
 				"x"		"0"
 				"y"		"0"
 				"width"		"200"

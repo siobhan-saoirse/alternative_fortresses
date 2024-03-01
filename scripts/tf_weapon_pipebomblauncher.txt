@@ -46,7 +46,7 @@ WeaponData
 	SoundData
 	{
 		"single_shot"	"Weapon_StickyBombLauncher.Single"
-		"reload"		"Weapon_StickyBombLauncher.WorldReload"
+		"reload"		"Weapon_GrenadeLauncher.WorldReload"
 		"special2"	"Player.UseDeny"
 		"special3"	"Weapon_StickyBombLauncher.ModeSwitch"
 		"burst"		"Weapon_StickyBombLauncher.SingleCrit"
