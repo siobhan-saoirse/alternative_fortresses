@@ -1,0 +1,1 @@
+..\hl2.exe -game tf -sw -console -dev -makereslists makereslists.txt %1 %2 %3 %4 %5

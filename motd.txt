@@ -1,0 +1,11 @@
+Welcome to Team Fortress 2
+You are playing on the Valve playtest server.
+Play nice.
+
+Our map rotation is:
+- Gravel Pit
+- Dustbowl
+- Granary
+- Well
+- 2Fort
+- Hydro
