@@ -20,7 +20,7 @@
 		{
 			"modelname"	"models/player/spy.mdl"
 			"modelname_hwm"	"models/player/hwm/spy.mdl"
-			"vcd"		"scenes/Player/Spy/low/taunt01.vcd"		
+			"vcd"		"scenes/Player/Spy/low/taunt02.vcd"		
 
 			"animation"
 			{

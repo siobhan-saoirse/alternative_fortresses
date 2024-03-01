@@ -21,7 +21,7 @@
 			"modelname"	"models/player/medic.mdl"
 			"modelname_hwm"	"models/player/hwm/medic.mdl"
 			"skin"		"1"
-			"vcd"		"scenes/Player/Medic/low/taunt02_v1.vcd"
+			"vcd"		"scenes/Player/Medic/low/taunt02.vcd"
 			
 			"attached_model"
 			{

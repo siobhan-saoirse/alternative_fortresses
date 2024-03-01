@@ -76,7 +76,7 @@
 			"origin_y" "10"
 			"origin_z" "-49"	
 			"spotlight" "1"
-			"vcd"		"scenes/Player/Scout/low/taunt02.vcd"
+			"vcd"		"scenes/Player/Scout/low/taunt01.vcd"
 
 			"animation"
 			{

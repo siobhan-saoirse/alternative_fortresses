@@ -19,7 +19,7 @@
 			"modelname"	"models/player/demo.mdl"
 			"modelname_hwm"	"models/player/hwm/demo.mdl"
 			"skin"		"1"
-			"vcd"		"scenes/Player/Demoman/low/taunt01.vcd"	
+			"vcd"		"scenes/Player/Demoman/low/taunt02.vcd"	
 			
 			"attached_model"
 			{
