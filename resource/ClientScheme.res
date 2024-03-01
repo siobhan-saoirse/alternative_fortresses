@@ -292,6 +292,13 @@ Scheme
 
 		"ProgressBarFg"			"255 30 13 255"
 
+		// Top-left corner of the menu on the main screen
+		"Main.Menu.X"		"32"
+		"Main.Menu.Y"		"248"
+
+		// Blank space to leave beneath the menu on the main screen
+		"Main.BottomBorder"	"32"
+		
 		// Top-left corner of the "Half-Life 2" on the main screen
 		"Main.Title1.X"			"53"
 		"Main.Title1.Y"			"190"
@@ -303,13 +310,6 @@ Scheme
 		"Main.Title2.Y"				"207"
 		"Main.Title2.Y_hidef"		"242"
 		"Main.Title2.Color"	"255 255 255 200"
-
-		// Top-left corner of the menu on the main screen
-		"Main.Menu.X"		"32"
-		"Main.Menu.Y"		"248"
-
-		// Blank space to leave beneath the menu on the main screen
-		"Main.BottomBorder"	"32"
 		
 		"VguiScreenCursor"			"255 208 64 255"
 	}
@@ -323,6 +323,13 @@ Scheme
 		"Buttons"		"materials/vgui/fonts/buttons_32.vbf"
 	}
 
+
+	//
+	//////////////////////// FONTS /////////////////////////////
+	//
+	// describes all the fonts
+	Fonts
+	{
 		// fonts are used in order that they are listed
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
 		// if a font fails to load then the subsequent fonts will replace
@@ -1818,7 +1825,6 @@ Scheme
 		}
 	}
 
-
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
@@ -1829,7 +1835,7 @@ Scheme
 		"3"
 		{
 			"font" "resource/TF2.ttf"
-			"name" "Verdana"
+			"name" "TF2"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
@@ -1842,7 +1848,7 @@ Scheme
 		"4" 
 		{
 			"font" "resource/TF2Secondary.ttf"
-			"name" "Verdana"
+			"name" "TF2 Secondary"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
@@ -1855,7 +1861,7 @@ Scheme
 		"5" 
 		{
 			"font" "resource/TF2Professor.ttf"
-			"name" "Verdana"
+			"name" "TF2 Professor"
 			"russian"
 			{
 				"range" "0x0000 0x00FF"
@@ -1868,7 +1874,7 @@ Scheme
 		"6" 
 		{
 			"font" "resource/TF2Build.ttf"
-			"name" "Verdana"
+			"name" "TF2 Build"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
@@ -1882,8 +1888,6 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"7"		"resource/TFlogo.ttf"
-		"8"		"resource/HalfLife2.ttf"
 	}
 
 }
