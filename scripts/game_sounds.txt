@@ -135,6 +135,14 @@
 	"wave"		"items/smallmedkit1.wav"
 }
 
+"Armor.Touch"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NONE"
+	"pitch"		"PITCH_NORM"
+	"wave"		"items/armoron_1.wav"
+}
 // ------------------------------------------------------------------------------------ //
 // AMMO PACK
 // ------------------------------------------------------------------------------------ //

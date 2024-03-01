@@ -1,7 +1,7 @@
 "GameInfo"
 {
-	game	"Earlier-Fortress 2"
-	title	"Earlier Fortress 2"
+	game	"Alternative Fortresses"
+	title	"Alternative Fortresses"
 	type multiplayer_only
 	nomodels 1
 	nohimodel 1
