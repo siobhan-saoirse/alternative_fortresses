@@ -74,5 +74,7 @@ particles_manifest
 		"file"		"!particles/emp_shockwave.pcf"
 		"file"		"!particles/conc_warp.pcf"
 		"file"		"!particles/conc_stars.pcf"
+
+		"file"		"!particles/mvm.pcf"
 }
 

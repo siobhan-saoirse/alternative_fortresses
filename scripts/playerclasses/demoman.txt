@@ -35,8 +35,8 @@ PlayerClass
 	}
 
 	// Death Sounds
-	"sound_death"				"Player.Death"
-	"sound_crit_death"				"Player.CritDeath"
-	"sound_melee_death"			"Player.MeleeDeath"
-	"sound_explosion_death"			"Player.ExplosionDeath"		
+	"sound_death"				"Demoman.Death"
+	"sound_crit_death"				"Demoman.CritDeath"
+	"sound_melee_death"			"Demoman.MeleeDeath"
+	"sound_explosion_death"			"Demoman.ExplosionDeath"		
 }
