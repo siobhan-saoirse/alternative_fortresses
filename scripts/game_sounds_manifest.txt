@@ -1,6 +1,12 @@
 game_sounds_manifest
 {
 	"precache_file"		"scripts/game_sounds.txt"	
+
+	"precache_file"  	"scripts/game_sounds_vo_old.txt"
+	"precache_file"  	"scripts/game_sounds_weapons_old.txt"
+	"precache_file"  	"scripts/game_sounds_player_old.txt"
+	"precache_file"  	"scripts/game_sounds_physics_old.txt"
+
 	"precache_file"  	"scripts/game_sounds_physics.txt"
 	"precache_file"  	"scripts/game_sounds_weapons.txt"
 	"precache_file"  	"scripts/game_sounds_vo_old.txt"
@@ -12,9 +18,4 @@ game_sounds_manifest
 	"precache_file"  	"scripts/game_sounds_vo_handmade.txt"
 //	"precache_file" 	"scripts/mvm_level_sounds.txt"
 	"preload_file"  	"scripts/game_sounds_player.txt"
-
-	"precache_file"  	"scripts/game_sounds_vo_old.txt"
-	"precache_file"  	"scripts/game_sounds_weapons_old.txt"
-	"precache_file"  	"scripts/game_sounds_player_old.txt"
-	"precache_file"  	"scripts/game_sounds_physics_old.txt"
 }
