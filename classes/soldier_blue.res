@@ -20,16 +20,16 @@
 			"modelname_hwm"	"models/player/hwm/soldier.mdl"
 			"skin" "1"
 			"origin_z" "-51"
-			"vcd"		"scenes/Player/Soldier/low/taunt03.vcd"		
+			"vcd"		"scenes/Player/Soldier/low/class_select.vcd"		
 
 			"animation"
 			{
-				"sequence"		"stand_melee"
+				"sequence"		"SelectionMenu_all"
 			}
 			
 			"attached_model"
 			{
-				"modelname" "models/weapons/w_models/w_shovel.mdl"
+				"modelname" "models/weapons/w_models/w_rocketlauncher.mdl"
 				"skin"		"1"
 			}
 		}

@@ -21,7 +21,7 @@
 			"modelname"	"models/player/engineer.mdl"
 			"modelname_hwm"	"models/player/hwm/engineer.mdl"
 			"origin_z" "-47"
-			"vcd"		"scenes/Player/Engineer/low/taunt01.vcd"	
+			"vcd"		"scenes/Player/Engineer/low/class_select.vcd"		
 
 			"attached_model"
 			{

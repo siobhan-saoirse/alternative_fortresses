@@ -21,7 +21,7 @@
 			"modelname"	"models/player/pyro.mdl"
 			"modelname_hwm"	"models/player/hwm/pyro.mdl"
 			"origin_z" "-48"
-			"vcd"		"scenes/Player/Pyro/low/taunt01.vcd"
+			"vcd"		"scenes/Player/Pyro/low/class_select.vcd"
 			
 			"attached_model"
 			{

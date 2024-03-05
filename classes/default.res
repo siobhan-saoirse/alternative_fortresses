@@ -76,11 +76,11 @@
 			"origin_y" "10"
 			"origin_z" "-49"	
 			"spotlight" "1"
-			"vcd"		"scenes/Player/Scout/low/taunt01.vcd"
+			"vcd"		"scenes/Player/Scout/low/class_select.vcd"		
 
 			"animation"
 			{
-				"sequence"		"SelectionMenu_Idle"
+				"sequence"		"SelectionMenu_StartPose"
 			}
 			
 			"attached_model"

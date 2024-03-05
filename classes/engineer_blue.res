@@ -22,7 +22,7 @@
 			"modelname_hwm"	"models/player/hwm/engineer.mdl"
 			"skin"		"1"
 			"origin_z" "-47"
-			"vcd"		"scenes/Player/Engineer/low/taunt03.vcd"		
+			"vcd"		"scenes/Player/Engineer/low/class_select.vcd"		
 
 			"attached_model"
 			{

@@ -30,7 +30,9 @@ WeaponData
 
 
 	// Muzzleflash
+	"MuzzleFlashModel"	"models/effects/muzzleflash/minigunmuzzle.mdl"
 	"MuzzleFlashParticleEffect" "muzzle_sniperrifle"
+	"MuzzleflashModelScale"	".5"
 
 	// Animation.
 	"viewmodel"		"models/weapons/v_models/v_sniperrifle_sniper.mdl"

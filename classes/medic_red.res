@@ -20,7 +20,7 @@
 		{
 			"modelname"	"models/player/medic.mdl"
 			"modelname_hwm"	"models/player/hwm/medic.mdl"
-			"vcd"		"scenes/Player/Medic/low/taunt02_v1.vcd"
+			"vcd"		"scenes/Player/Medic/low/class_select.vcd"
 			
 			"attached_model"
 			{

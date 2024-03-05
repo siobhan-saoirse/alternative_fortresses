@@ -39,7 +39,9 @@ WeaponData
 	"anim_prefix"		"shotgun"
 
 	// Muzzleflash
+	"MuzzleFlashModel"	"models/effects/muzzleflash/minigunmuzzle.mdl"
 	"MuzzleFlashParticleEffect" "muzzle_scattergun"
+	"MuzzleflashModelScale"	".5"
 	
 	// Sounds.
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).

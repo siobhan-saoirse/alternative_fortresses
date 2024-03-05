@@ -18,7 +18,7 @@
 		{
 			"modelname"	"models/player/demo.mdl"
 			"modelname_hwm"	"models/player/hwm/demo.mdl"
-			"vcd"		"scenes/Player/Demoman/low/taunt02.vcd"	
+			"vcd"		"scenes/Player/Demoman/low/class_select.vcd"	
 			
 			"attached_model"
 			{
