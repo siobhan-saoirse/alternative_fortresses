@@ -2870,8 +2870,8 @@
 	"pitch"			"100"
 	"rndwave"
 	{
-		"wave"		"player/footsteps/wood1.wav"
-		"wave"		"player/footsteps/wood3.wav"
+		"wave"		"physics/wood/wood_box_footstep1.wav"
+		"wave"		"physics/wood/wood_box_footstep2.wav"
 	}
 }
 
@@ -2882,8 +2882,8 @@
 	"pitch"			"100"
 	"rndwave"
 	{
-		"wave"		"player/footsteps/wood2.wav"
-		"wave"		"player/footsteps/wood4.wav"
+		"wave"		"physics/wood/wood_box_footstep3.wav"
+		"wave"		"physics/wood/wood_box_footstep4.wav"
 	}
 }
 

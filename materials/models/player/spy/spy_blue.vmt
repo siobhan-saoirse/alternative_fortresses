@@ -18,8 +18,9 @@
 
 
 	"$phong" "1"
-	"$phongexponent" "20"
-	"$phongboost" ".3"	
+	//"$phongexponent" "20"
+	"$phongboost" "0.1"	
+	"$phongexponenttexture"	"models/player/spy/spy_exponent"
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
 	"$phongfresnelranges"	"[.3 1 8]"
 	"$halflambert" "0"

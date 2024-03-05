@@ -10,7 +10,7 @@ game_sounds_manifest
 	"precache_file"  	"scripts/game_sounds_vo_mvm_handmade.txt"
 	"precache_file"  	"scripts/game_sounds_vo.txt"
 	"precache_file"  	"scripts/game_sounds_vo_handmade.txt"
-	"precache_file" 	"scripts/mvm_level_sounds.txt"
+//	"precache_file" 	"scripts/mvm_level_sounds.txt"
 	"preload_file"  	"scripts/game_sounds_player.txt"
 
 	"precache_file"  	"scripts/game_sounds_vo_old.txt"

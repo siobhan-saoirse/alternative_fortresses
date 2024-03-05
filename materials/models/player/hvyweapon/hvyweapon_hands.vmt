@@ -4,8 +4,8 @@
 	"$basemapalphaphongmask" "1"
 
 	"$phong" "1"
-	"$phongexponent" "5"
-	"$phongboost" "1"	
+	//"$phongexponent" "5"
+	"$phongboost" "0.1"	
 	"$lightwarptexture" "models/lightwarps/hand_lightwarp"
 	"$phongfresnelranges"	"[.5 3 5]"
 	"$halflambert" "1"

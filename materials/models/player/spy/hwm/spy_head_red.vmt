@@ -26,7 +26,7 @@
 
 	"$phong" "1"
 	"$phongexponenttexture" "models/player/spy/hwm/spy_head_exponent"
-	"$phongboost" "1"	
+	"$phongboost" "0.1"	
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
 	"$phongfresnelranges"	"[.3 1 8]"
 	"$halflambert" "0"
