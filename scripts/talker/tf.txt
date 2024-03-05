@@ -1428,6 +1428,11 @@
 		criteria ConceptPlayerTaunt IsDemoman WeaponIsCaber
 		response DemomanTauntCaber
 	}
+	rule DemomanTauntCaber2
+	{
+		criteria ConceptPlayerSuicideBomb
+		response DemomanTauntCaber
+	}
 	Rule DemomanTauntSaxxy
 	{
 		criteria ConceptPlayerTaunt IsDemoman WeaponIsSaxxy
