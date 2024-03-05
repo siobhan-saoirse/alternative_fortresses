@@ -9,7 +9,7 @@ PlayerClass
 	"model_hwm"		"models/player/hwm/heavy.mdl"
 	"localize_name"	"TF_Class_Name_HWGuy"
 	"speed_max"		"230"
-	"health_max"		"100"
+	"health_max"		"300"
 	"armor_max"		"400"
 //	"health_max"		"300"
 //	"armor_max"		"0"

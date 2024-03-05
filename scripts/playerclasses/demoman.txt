@@ -9,7 +9,7 @@ PlayerClass
 	"model_hwm"		"models/player/hwm/demo.mdl"
 	"localize_name"	"TF_Class_Name_Demoman"
 	"speed_max"		"280"
-	"health_max"		"90"
+	"health_max"		"175"
 	"armor_max"		"120"
 //	"health_max"		"175"
 //	"armor_max"		"0"
