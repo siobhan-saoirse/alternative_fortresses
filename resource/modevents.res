@@ -58,6 +58,28 @@
 		"assister_revenge" "short"	// did assister get revenge on victim with this kill
 	}
 	
+
+	"player_damaged"
+	{
+		"amount"		"short"
+		"type"			"long"
+	}
+	
+	"player_hurt"
+	{
+		"userid" "short"
+		"health" "short"
+		"attacker" "short"
+		"damageamount" "short"
+		"custom"	"short"
+		"showdisguisedcrit" "bool"	// if our attribute specifically crits disguised enemies we need to show it on the client
+		"crit" "bool"
+		"minicrit" "bool"
+		"allseecrit" "bool"
+		"weaponid" "short"
+		"bonuseffect" "byte"
+	}
+	
 	"object_destroyed"
 	{			
 		"userid"	"short"   	// user ID who died				
