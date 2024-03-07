@@ -28,10 +28,10 @@
 		"label" "#GameUI_GameMenu_CreateServer"
 		"command" "OpenCreateMultiplayerGameDialog"
 	}
-	"7"
+	"5_5"
 	{
-		"label"	"#GameUI_LoadCommentary"
-		"command" "OpenLoadSingleplayerCommentaryDialog"
+		"label" "OFFLINE PRACTICE"
+		"command" "OpenNewGameDialog"
 	}
 	"8"
 	{
